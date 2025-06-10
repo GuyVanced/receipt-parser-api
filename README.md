@@ -31,12 +31,12 @@ cd receipt-parser-api
 ### 2. Configure Environment
 
 * Create a **.env** file
-
-		**or**
+        
+    **or**
 
 * Copy from existing example file
 ```bash
-	cp .env.example .env
+cp .env.example .env
 ```
 * Edit `.env`
 ```env
