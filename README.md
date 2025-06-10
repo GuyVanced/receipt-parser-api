@@ -31,9 +31,11 @@ cd receipt-parser-api
 ### 2. Configure Environment
 
 * Create a **.env** file
+
 		**or**
+
 * Copy from existing example file
-	```bash
+```bash
 	cp .env.example .env
 ```
 * Edit `.env`
@@ -49,7 +51,7 @@ python -m venv venv
 ```
 
 * Activate the virtual environment
-	```bash
+```bash
 venv\Scripts\activate #Windows
 source venv/bin/activate # mac or Linux
 ```
