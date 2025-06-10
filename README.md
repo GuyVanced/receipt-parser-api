@@ -58,7 +58,7 @@ source venv/bin/activate # mac or Linux
 
 * Install the requirements
 ```shell
-	pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 4. Run Migrations
